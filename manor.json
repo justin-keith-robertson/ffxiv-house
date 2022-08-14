@@ -1,0 +1,3698 @@
+{
+  "playerTransform": {
+    "location": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0, 1 ],
+    "scale": [ 1, 1, 1 ]
+  },
+  "houseSize": "Medium",
+  "interiorScale": 1,
+  "interiorFixture": [
+    {
+      "level": "Ground Floor",
+      "type": "Wall",
+      "name": "Fortemps Manor Interior Wall",
+      "itemId": 17032
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Floor",
+      "name": "Marble Flooring",
+      "itemId": 8014
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Light",
+      "name": "House Fortemps Chandelier",
+      "itemId": 17994
+    },
+    {
+      "level": "Upper Floor",
+      "type": "Wall",
+      "name": "Fortemps Manor Interior Wall",
+      "itemId": 17032
+    },
+    {
+      "level": "Upper Floor",
+      "type": "Floor",
+      "name": "Marble Flooring",
+      "itemId": 8014
+    },
+    {
+      "level": "Upper Floor",
+      "type": "Light",
+      "name": "House Fortemps Chandelier",
+      "itemId": 17994
+    },
+    {
+      "level": "Basement",
+      "type": "Wall",
+      "name": "Fortemps Manor Interior Wall",
+      "itemId": 17032
+    },
+    {
+      "level": "Basement",
+      "type": "Floor",
+      "name": "Marble Flooring",
+      "itemId": 8014
+    },
+    {
+      "level": "Basement",
+      "type": "Light",
+      "name": "Wooden Chandelier",
+      "itemId": 28962
+    },
+    {
+      "level": "",
+      "type": "Window",
+      "name": "Oasis Lancet Window",
+      "itemId": 6408
+    },
+    {
+      "level": "",
+      "type": "Door",
+      "name": "Riviera Ornate Door",
+      "itemId": 6412
+    },
+    {
+      "level": "",
+      "type": "District",
+      "name": "Mist",
+      "itemId": 0
+    }
+  ],
+  "interiorFurniture": [
+    {
+      "name": "Alpine Supper Set",
+      "itemId": 14052,
+      "transform": {
+        "location": [ 1.111382, -2.80258, -6.1038 ],
+        "rotation": [ 0, 0, 0.70710635, 0.7071072 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Alpine Tea Set",
+      "itemId": 12086,
+      "transform": {
+        "location": [ 2.5938404, -2.7321286, -6.1038 ],
+        "rotation": [ 0, 0, 0.6087614, 0.7933533 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Antique Vessels",
+      "itemId": 27293,
+      "transform": {
+        "location": [ -0.59295255, 6.973724, 8.493566 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Ashtray",
+      "itemId": 15148,
+      "transform": {
+        "location": [ 6.1796885, 0.5176057, 0.7010679 ],
+        "rotation": [ 0, 0, -0.13052605, 0.9914449 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Assorted Candles",
+      "itemId": 22552,
+      "transform": {
+        "location": [ 4.8, 0, 7 ],
+        "rotation": [ 0, 0, 0.5, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Assorted Candles",
+      "itemId": 22552,
+      "transform": {
+        "location": [ 4.6, -2, 7 ],
+        "rotation": [ 0, 0, 0.5, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Assorted Candles",
+      "itemId": 22552,
+      "transform": {
+        "location": [ 10.4, -1.7999998, 7 ],
+        "rotation": [ 0, 0, -0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Assorted Candles",
+      "itemId": 22552,
+      "transform": {
+        "location": [ 10.4, 0.20000002, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Bearskin Rug",
+      "itemId": 12103,
+      "transform": {
+        "location": [ 6.199999, -3.3999999, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Blades of Innocence",
+      "itemId": 27299,
+      "transform": {
+        "location": [ 7.006996, 1.2517767, 3.4100704 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Blank Riviera Partition",
+      "itemId": 21106,
+      "transform": {
+        "location": [ -4.3850155, -2.6956227, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 1.9078572, -2.891469, -6.1038 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 1.9039146, -2.8919435, -6.1038 ],
+        "rotation": [ 0, 0, -0.70710635, 0.7071072 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 3.3034377, -2.874788, -6.1038 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 3.3044982, -2.8803828, -6.1038 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 4.7291417, -2.7593074, -6.1038 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 4.720638, -2.7474573, -6.1038 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Byakko Sideboard",
+      "itemId": 21816,
+      "transform": {
+        "location": [ 0.20530342, 0.2919073, 0.5513047 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Chilled Red",
+      "itemId": 7963,
+      "transform": {
+        "location": [ 5.6032987, -0.56535375, 7.9433765 ],
+        "rotation": [ 0, 0, 0.6087614, 0.7933533 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 0, -2.7999988, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 6.7999988, -2.9999983, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 4.0000005, -0.99999905, -6.999998 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 5.4000006, -0.9999991, -6.999998 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 0.59999967, -1.5999998, 7 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 4.0000005, -4.5999985, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 5.3999996, -4.6, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 2.5999978, -4.6000004, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 0.6000001, 1.6, 7 ],
+        "rotation": [ 0, 0, 0.9238795, 0.38268343 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 1.199999, -4.6, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 2.600001, -0.99999964, -6.999998 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Chocobo Chair",
+      "itemId": 23857,
+      "transform": {
+        "location": [ 1.2, -0.9999987, -6.999998 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Combed Wool Rug",
+      "itemId": 15976,
+      "transform": {
+        "location": [ -0.40000093, 0, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Combed Wool Rug",
+      "itemId": 15976,
+      "transform": {
+        "location": [ -9.599997, -1.2000022, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Combed Wool Rug",
+      "itemId": 15976,
+      "transform": {
+        "location": [ -6.1999984, -1.2000024, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cosmetics Box",
+      "itemId": 28965,
+      "transform": {
+        "location": [ 7.1435404, -6.6586633, 7.9110994 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -10.6254425, 6.421469, 8.46694 ],
+        "rotation": [ 0, 0, -0.9238795, 0.38268355 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 8.984463, -7.320965, -4.2047434 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 7.4825835, -7.316658, -6.5753045 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 6.012349, -7.316658, -6.581771 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -10.634769, -6.6121297, 8.461526 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 6.0118775, -7.316658, -4.205612 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 1.1829082, -7.31433, -4.213601 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -1.7918531, -7.317049, -6.5832167 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -8.817439, -7.4294558, 0.36771077 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -1.7926502, -7.317049, -4.211461 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 1.1804087, -7.31433, -6.576573 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -0.30384886, -7.317049, -6.5821395 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -0.3001541, -7.317049, -4.210489 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -10.625359, 6.4215527, 10.198442 ],
+        "rotation": [ 0, 0, -0.9238795, 0.38268355 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 7.4954634, -7.316658, -4.206167 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 10.119342, -6.1275506, 2.579979 ],
+        "rotation": [ 0, 0, 0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 10.120675, -6.126218, 0.35982102 ],
+        "rotation": [ 0, 0, 0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 9.066854, -7.1800394, 0.38377815 ],
+        "rotation": [ 0, 0, 0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -8.820751, -7.426143, 2.5946486 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 11.167286, -5.0795965, 2.6058803 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -10.827579, -5.4193106, 2.594327 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -9.8242035, -6.4226856, 2.594262 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 11.179935, -5.066947, 0.39615077 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -10.625186, -6.6217127, 10.195354 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -10.829513, -5.417376, 0.36746746 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ -9.823627, -6.4232616, 0.3671396 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 9.058306, -7.188587, 2.6070836 ],
+        "rotation": [ 0, 0, 0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 8.985212, -7.320965, -6.5748773 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "A5843000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Crossed Halberds",
+      "itemId": 22542,
+      "transform": {
+        "location": [ 2.9970398, 1.5503254, -4.6046124 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Crystal Bell",
+      "itemId": 13061,
+      "transform": {
+        "location": [ 3.7232466, 1.845818, 0 ],
+        "rotation": [ 0, 0, 0.25881904, 0.9659258 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Deluxe Manor Fireplace",
+      "itemId": 6590,
+      "transform": {
+        "location": [ 6.1752667, -7.3450527, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Deluxe Manor Fireplace",
+      "itemId": 6590,
+      "transform": {
+        "location": [ 11.199996, -2.8, -6.999998 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Deluxe Manor Fireplace",
+      "itemId": 6590,
+      "transform": {
+        "location": [ -3.9999976, -2.8, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Dragon Icon",
+      "itemId": 32222,
+      "transform": {
+        "location": [ 8.036766, 7.717792, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Dragon Icon",
+      "itemId": 32222,
+      "transform": {
+        "location": [ 0.01284039, 7.6193657, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Four Lords",
+      "itemId": 24510,
+      "transform": {
+        "location": [ 2.9975302, 2.0496786, -5.00627 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Futon Mattress",
+      "itemId": 21811,
+      "transform": {
+        "location": [ -8.9876995, -0.058941733, 9.08546 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Glade Bench",
+      "itemId": 6524,
+      "transform": {
+        "location": [ -6.4733205, 0, 8.845193 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Glade Bench",
+      "itemId": 6524,
+      "transform": {
+        "location": [ -6.0000033, -5.7999964, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "E4DFD000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Glade Sideboard",
+      "itemId": 6623,
+      "transform": {
+        "location": [ 6.8, 0.599998, 0 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Sideboard",
+      "itemId": 6623,
+      "transform": {
+        "location": [ -0.8000001, 0, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Gourmet Supper",
+      "itemId": 7960,
+      "transform": {
+        "location": [ 5.49148, -2.8061376, -6.1038 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Grade 2 Picture Frame",
+      "itemId": 16936,
+      "transform": {
+        "location": [ -11.305679, -2.8341405, 2.3738477 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Grade 2 Picture Frame",
+      "itemId": 16936,
+      "transform": {
+        "location": [ -11.3074665, -0.46321404, 4.1521587 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Grade 3 Picture Frame",
+      "itemId": 16937,
+      "transform": {
+        "location": [ -0.6564541, 7.197799, 10.498128 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Grade 3 Picture Frame",
+      "itemId": 16937,
+      "transform": {
+        "location": [ -8.000046, 1.3904911, 3.596418 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Grand Chair",
+      "itemId": 23097,
+      "transform": {
+        "location": [ 8.599997, 0.19999658, 0 ],
+        "rotation": [ 0, 0, 0.9659258, 0.25881907 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Grand Chair",
+      "itemId": 23097,
+      "transform": {
+        "location": [ 5.000001, 0.19999708, 0 ],
+        "rotation": [ 0, 0, -0.9659259, 0.25881895 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "itemId": 15975,
+      "transform": {
+        "location": [ 4.055538, -7.623499, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "itemId": 15975,
+      "transform": {
+        "location": [ -5.0933914, 1.6006396, 0.047647476 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "itemId": 15975,
+      "transform": {
+        "location": [ -11.570862, 2.6740375, 8.882951 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "itemId": 15975,
+      "transform": {
+        "location": [ -11.544707, -2.7495549, 8.856514 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "itemId": 15975,
+      "transform": {
+        "location": [ -10.715876, 1.5852735, 0.04764548 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "itemId": 15975,
+      "transform": {
+        "location": [ -6.1759624, -7.8350105, 0.03413941 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Hingan Chair",
+      "itemId": 20729,
+      "transform": {
+        "location": [ -5.000001, -1.2000033, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Hingan Chair",
+      "itemId": 20729,
+      "transform": {
+        "location": [ -10.799997, -1.2000031, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Hingan Sideboard",
+      "itemId": 20732,
+      "transform": {
+        "location": [ 1.9999999, -7.2358317, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Hingan Sitting Table",
+      "itemId": 20727,
+      "transform": {
+        "location": [ -7.999999, -1.2000033, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Hingan Sofa",
+      "itemId": 20730,
+      "transform": {
+        "location": [ -7.999999, 0.79999506, 0 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Hingan Wardrobe",
+      "itemId": 20733,
+      "transform": {
+        "location": [ -0.39999998, -7, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Hokonin Permit",
+      "itemId": 21854,
+      "transform": {
+        "location": [ 3.9261878, -7.1663194, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ -11.739081, 4.4969773, -1.6 ],
+        "rotation": [ 0, 0, -0.70710224, 0.7071113 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ -11.732171, 3.000003, -1.6 ],
+        "rotation": [ 0, 0, -0.70710224, 0.7071113 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ 3.150803, -0.001345396, 8.092884 ],
+        "rotation": [ 0, 0, 0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ 2.6, 8, 2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ -2.6, 8, 1.9999999 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ 11.63906, 4.45231, 5.4 ],
+        "rotation": [ 0, 0, 0.7071098, 0.7071037 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ -11.745701, 6.0000005, -1.6 ],
+        "rotation": [ 0, 0, -0.70710224, 0.7071113 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ 11.658547, 2.7999997, 5.4 ],
+        "rotation": [ 0, 0, 0.7071098, 0.7071037 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "itemId": 20753,
+      "transform": {
+        "location": [ 11.616128, 6.0674586, 5.4 ],
+        "rotation": [ 0, 0, 0.7071098, 0.7071037 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imposing Dimension Castle Vase",
+      "itemId": 22563,
+      "transform": {
+        "location": [ 1.3999978, 0.20000708, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imposing Dimension Castle Vase",
+      "itemId": 22563,
+      "transform": {
+        "location": [ -1.0000005, 0.20000851, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imposing Dimension Castle Vase",
+      "itemId": 22563,
+      "transform": {
+        "location": [ -10.860345, 4.221862, 8.473361 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Imposing Dimension Castle Vase",
+      "itemId": 22563,
+      "transform": {
+        "location": [ -10.836112, -4.2368875, 8.467329 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Indoor Oriental Waterfall",
+      "itemId": 35561,
+      "transform": {
+        "location": [ -0.81248933, -5.894695, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Ishgardian Display Stand",
+      "itemId": 30416,
+      "transform": {
+        "location": [ -1.9999999, -7, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Ivy Pillar",
+      "itemId": 17025,
+      "transform": {
+        "location": [ -4.2, -4, 7 ],
+        "rotation": [ 0, 0, -0.6087614, 0.7933533 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Ivy Pillar",
+      "itemId": 17025,
+      "transform": {
+        "location": [ -4.2, 4.000001, 7 ],
+        "rotation": [ 0, 0, -0.7933533, 0.6087614 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Lakeland Table",
+      "itemId": 28638,
+      "transform": {
+        "location": [ 5.399999, -2.7999992, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Lakeland Table",
+      "itemId": 28638,
+      "transform": {
+        "location": [ 2.6, -2.7999985, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Lakeland Table",
+      "itemId": 28638,
+      "transform": {
+        "location": [ 3.9999995, -2.7999992, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Lakeland Table",
+      "itemId": 28638,
+      "transform": {
+        "location": [ 1.2000005, -2.799999, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Leather Bags",
+      "itemId": 22550,
+      "transform": {
+        "location": [ 1.7936751, -6.963026, 7.835322 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Lily Floor Lamp",
+      "itemId": 27271,
+      "transform": {
+        "location": [ -0.95223784, -4.372441, 0 ],
+        "rotation": [ 0, 0, 0.86602545, 0.49999997 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Lily Floor Lamp",
+      "itemId": 27271,
+      "transform": {
+        "location": [ -0.9491018, -7.315451, 0 ],
+        "rotation": [ 0, 0, 0.5, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Longcase Chronometer",
+      "itemId": 9718,
+      "transform": {
+        "location": [ 2.8052275, 0, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Low Bookshelf",
+      "itemId": 33283,
+      "transform": {
+        "location": [ -0.59999996, 7.0000005, 7 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 4, 6.999999, -6.999998 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 10.935415, 6.776574, -6.999998 ],
+        "rotation": [ 0, 0, 0.92387956, 0.3826833 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 3.3737004, 5.0940375, 7 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 3.3999996, -6.4, 7 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 3.3999999, -4.4, 7 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ -0.9999987, 1.8000025, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 1.0000004, 1.8000022, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 7.192461, 1.836415, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 5.2000003, 1.7999977, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Couch",
+      "itemId": 6535,
+      "transform": {
+        "location": [ -2.1999998, 0, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "781A1A00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Dressing Table",
+      "itemId": 28973,
+      "transform": {
+        "location": [ 7.4, -6.5999994, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "781A1A00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Fireplace",
+      "itemId": 6634,
+      "transform": {
+        "location": [ 2.2875855, 0, 7 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Harpsichord",
+      "itemId": 7108,
+      "transform": {
+        "location": [ -6.0533032, -8.52439, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "E4DFD000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Music Stand",
+      "itemId": 7114,
+      "transform": {
+        "location": [ -6.094532, -6.908088, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Stool",
+      "itemId": 6519,
+      "transform": {
+        "location": [ 7.4, -5.6, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 3.3981202, 6.1271567, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 2.9869022, 0.55201346, 0 ],
+        "rotation": [ 0, 0, 0.25398618, 0.96720785 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ -2.6089394, 0.5788504, 0 ],
+        "rotation": [ 0, 0, -0.25881904, 0.9659258 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ -3.7870913, 6.387442, 0.047637433 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 2.91929, 0, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 0.0086644925, 1.8000013, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 11.338119, -2.8273628, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 6.2, 1.7999976, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ -4.1884904, -2.758166, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Arch Partition",
+      "itemId": 27273,
+      "transform": {
+        "location": [ 3.4000003, -5.3999996, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -3.7846303, 3.158269, 0.047643363 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -1.5998783, -7.873583, 0.03443879 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11.554906, -4.1476946, 0.03436014 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 1.2000039, -5.9999995, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 1.2000002, -1.9999939, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -6.2017584, 1.640164, 0.047647476 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -8.257513, -8.342483, 0 ],
+        "rotation": [ 0, 0, -0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -0.7999993, -1.9999932, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11, -6.6000004, 7 ],
+        "rotation": [ 0, 0, -0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -3.3999977, 1.8000014, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -9.5467205, 1.8021922, -6.999998 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 0.3999976, -1.9999881, 0 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 3.1999996, 1.7999983, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -4.1999955, 0, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -4.190619, -6.000802, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -8.782877, -7.568531, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -5.573312, -7.5668774, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -10.067773, 1.6407477, 0.04764408 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 2.4037268, -7.5640106, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 6.4008155, -7.5663385, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 10.362379, -7.570645, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 11.341083, -6.1890454, -6.999998 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 11.34112, 0.03724192, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11.557883, -6.4916143, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11.557104, -3.195825, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 10.6, -6.9999995, 7 ],
+        "rotation": [ 0, 0, -0.9238795, 0.38268343 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11.557918, 0.7950473, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 3.3992348, 2.518878, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 5.6097007, -7.586859, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "1E1E1E00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 11.546581, -4.407773, 7.034442 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 11.547241, -0.5950311, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 9.19194, -7.585091, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "1E1E1E00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 3.4000003, -1.4, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 1.10798, -7.5641055, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -3.732764, -6.708751, -6.999998 ],
+        "rotation": [ 0, 0, -0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -2.039084, -7.5640435, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -10.028877, -7.5620103, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 1.0982382, 7.447472, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -2.890265, 7.445948, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -6.8887777, 7.4429398, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -10.243179, 7.4425383, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -10.600001, 6.8000007, 7 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11.554314, 4.7770295, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -6.033345, -7.562036, 7 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 10.777067, -6.6760216, -6.999998 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -1.5883746, -7.5667295, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -10.999994, -5.599996, 0 ],
+        "rotation": [ 0, 0, -0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -0.3999996, -1.9999933, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 10.199999, 1.800003, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 9.799997, -6.799997, 0 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 6.5999565, 1.5014496, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 12.591006, -4.008977, 0 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 0, -1.9999906, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 10.018031, 1.501782, 0 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -11.557115, -0.55732715, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ -6.9797482, 1.800001, -6.999998 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Marble Partition",
+      "itemId": 27281,
+      "transform": {
+        "location": [ 0.8000004, -1.9999938, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Message Book Stand",
+      "itemId": 6541,
+      "transform": {
+        "location": [ 0.20648795, 0.19952859, 1.2515917 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Mounted Bookshelf",
+      "itemId": 15974,
+      "transform": {
+        "location": [ 11.624954, -1.5192862, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Mounted Bookshelf",
+      "itemId": 15974,
+      "transform": {
+        "location": [ 2.5375452, -8.007268, 0.034088433 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Mounted Bookshelf",
+      "itemId": 15974,
+      "transform": {
+        "location": [ 11.403141, 0.4787169, 0 ],
+        "rotation": [ 0, 0, 0.9659259, 0.25881895 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Necklace Display Stand",
+      "itemId": 28149,
+      "transform": {
+        "location": [ 0.385638, -6.9366565, 8.623804 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oasis Rug",
+      "itemId": 6679,
+      "transform": {
+        "location": [ -8.204613, 1.7914836, 8.87811 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oasis Rug",
+      "itemId": 6679,
+      "transform": {
+        "location": [ -8.205395, -1.7975384, 8.8721485 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ 3.6492567, -2.6063302, 7.6315317 ],
+        "rotation": [ 0, 0, -0.7072289, 0.70698464 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ 11.297428, -0.9794716, 7.715889 ],
+        "rotation": [ 0, 0, 0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ 11.297974, 0.5990781, 7.749395 ],
+        "rotation": [ 0, 0, 0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ 3.6502943, 0.3983884, 7.6468697 ],
+        "rotation": [ 0, 0, -0.7072289, 0.70698464 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ 11.296938, -2.3994393, 7.7144675 ],
+        "rotation": [ 0, 0, 0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ -4.2, -2.6, 8.300718 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ 3.6497464, -1.1882877, 7.6460857 ],
+        "rotation": [ 0, 0, -0.7072289, 0.70698464 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ -4.2, -1.4, 8.276954 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ -4.2, -0.4, 8.257056 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ -4.2000184, 1.0496632, 8.234367 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "itemId": 28975,
+      "transform": {
+        "location": [ -4.1999526, 2.4652922, 8.273674 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Orchestrion",
+      "itemId": 14045,
+      "transform": {
+        "location": [ -1.4000043, -2.4000044, 0 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oriental Bathtub",
+      "itemId": 9719,
+      "transform": {
+        "location": [ 7.444279, -0.26999015, 7 ],
+        "rotation": [ 0, 0, 0.7071068, 0.7071067 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Pile of Tomes",
+      "itemId": 13074,
+      "transform": {
+        "location": [ 8.999998, -5.7999983, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Planter Partition",
+      "itemId": 7979,
+      "transform": {
+        "location": [ 4.6, 0, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Planter Partition",
+      "itemId": 7979,
+      "transform": {
+        "location": [ 4.5999994, -1.7999996, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Planter Partition",
+      "itemId": 7979,
+      "transform": {
+        "location": [ 10.400001, -1.8, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Planter Partition",
+      "itemId": 7979,
+      "transform": {
+        "location": [ 10.4, 0.20000015, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Potted Oliphant's Ear",
+      "itemId": 8782,
+      "transform": {
+        "location": [ -5, 4.6, 7 ],
+        "rotation": [ 0, 0, -0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Potted Oliphant's Ear",
+      "itemId": 8782,
+      "transform": {
+        "location": [ -5, -4.6, 7 ],
+        "rotation": [ 0, 0, 0.9659258, 0.25881907 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Raging Vortex Couch",
+      "itemId": 6537,
+      "transform": {
+        "location": [ 0.1999997, -8.615173, 8.860291 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Red Carpet",
+      "itemId": 24525,
+      "transform": {
+        "location": [ -10.061979, 5.0791373, -3.4690144 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Red Carpet",
+      "itemId": 24525,
+      "transform": {
+        "location": [ 10.0491905, 4.9932766, 3.499916 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Canopy Bed",
+      "itemId": 8779,
+      "transform": {
+        "location": [ -9.162888, -0.068113506, 8.800101 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Couch",
+      "itemId": 6532,
+      "transform": {
+        "location": [ 2.1999996, -4.5999985, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Couch",
+      "itemId": 6532,
+      "transform": {
+        "location": [ 2.200004, -2.2, 0 ],
+        "rotation": [ 0, 0, -0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Fringed Rug",
+      "itemId": 6674,
+      "transform": {
+        "location": [ 7.4, -4.3999996, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Wardrobe",
+      "itemId": 6549,
+      "transform": {
+        "location": [ 6.2, -7.700522, 0.9975044 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Rose Trellis",
+      "itemId": 32221,
+      "transform": {
+        "location": [ 2.8, -1.4, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Rose Trellis",
+      "itemId": 32221,
+      "transform": {
+        "location": [ -2.6852462, -7.7405286, 0.0342893 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Rose Trellis",
+      "itemId": 32221,
+      "transform": {
+        "location": [ -1.5800141, -7.7245893, 0.034613788 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Rose Trellis",
+      "itemId": 32221,
+      "transform": {
+        "location": [ 2.8000004, 1.3999997, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Royal Lion",
+      "itemId": 32223,
+      "transform": {
+        "location": [ 4.7999945, 6.199998, 0 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Royal Lion",
+      "itemId": 32223,
+      "transform": {
+        "location": [ -4.599997, 6.1999993, -6.999998 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Shinryu's Wing",
+      "itemId": 20754,
+      "transform": {
+        "location": [ 3.5944571, -7.31433, -3.9706547 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Shower Stand",
+      "itemId": 8783,
+      "transform": {
+        "location": [ 5.6373057, 1.7133621, 7.047643 ],
+        "rotation": [ 0, 0, -0.5, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Simple Curtain",
+      "itemId": 27274,
+      "transform": {
+        "location": [ 3.2370396, 6.1233907, 8.477072 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Simple Curtain",
+      "itemId": 27274,
+      "transform": {
+        "location": [ 3.6481698, -5.395393, 8.348811 ],
+        "rotation": [ 0, 0, 0.70722884, 0.7069847 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Simple Curtain",
+      "itemId": 27274,
+      "transform": {
+        "location": [ -11.307689, -0.793216, 9.810178 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Simple Curtain",
+      "itemId": 27274,
+      "transform": {
+        "location": [ -11.30817, 0.6005871, 9.813274 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stack of Tomes",
+      "itemId": 13073,
+      "transform": {
+        "location": [ 2.000005, -6.5999956, 0 ],
+        "rotation": [ 0, 0, -0.7933533, 0.6087614 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Stack of Tomes",
+      "itemId": 13073,
+      "transform": {
+        "location": [ 10.399993, -4.1999974, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ 11.999816, -3.4844284, 3.3631086 ],
+        "rotation": [ 0, 0, 0.9238795, 0.38268343 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -11.305216, -4.1771383, 3.3608446 ],
+        "rotation": [ 0, 0, -0.92387956, 0.3826833 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -4.090796, 3.8617806, 10.803423 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -11.308469, 1.4668092, 10.3499565 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -11.307968, -1.6193265, 10.391206 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -7.5067635, -8, 3.375832 ],
+        "rotation": [ 0, 0, 0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -4.054807, -3.874709, 10.754514 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ 7.5135584, -8, 3.3751688 ],
+        "rotation": [ 0, 0, -0.3826834, 0.92387956 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ 2.3499138, -6.968795, -3.8151248 ],
+        "rotation": [ 0, 0, 0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -6.9105597, -1.6108279, 10.3947525 ],
+        "rotation": [ 0, 0, 0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ 4.797386, -6.868747, -3.8183932 ],
+        "rotation": [ 0, 0, -0.72715765, 0.6864705 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ 10.110979, -6.9890084, -3.819849 ],
+        "rotation": [ 0, 0, 0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -6.9075522, 1.4727492, 10.383897 ],
+        "rotation": [ 0, 0, 0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Stage Curtain",
+      "itemId": 30389,
+      "transform": {
+        "location": [ -3.1313143, -6.9571, -3.816567 ],
+        "rotation": [ 0, 0, -0.70722866, 0.7069849 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Starlight Dodo",
+      "itemId": 8802,
+      "transform": {
+        "location": [ 3.949171, -2.7184117, -6.1038 ],
+        "rotation": [ 0, 0, 0.70710635, 0.7071072 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Steward Permit",
+      "itemId": 13055,
+      "transform": {
+        "location": [ -3.9999998, -6.999997, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Summoning Bell",
+      "itemId": 7064,
+      "transform": {
+        "location": [ 3.5388954, 4.936895, 0 ],
+        "rotation": [ 0, 0, 0.1305262, 0.9914449 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Sumptuous Dimension Castle Vase",
+      "itemId": 22562,
+      "transform": {
+        "location": [ -6.785433, -7.207804, 0.594579 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Swag Valance",
+      "itemId": 32224,
+      "transform": {
+        "location": [ -7.158337, -0.052310977, 12.899042 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Swag Valance",
+      "itemId": 32224,
+      "transform": {
+        "location": [ 3.1898444, 2.0496786, -2.6438923 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Swag Valance",
+      "itemId": 32224,
+      "transform": {
+        "location": [ -6.9193673, -0.06820463, 11.998659 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Swag Valance",
+      "itemId": 32224,
+      "transform": {
+        "location": [ -3.8797865, -0.057007287, 13.095054 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "45151100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Tabletop Hat Stand",
+      "itemId": 28147,
+      "transform": {
+        "location": [ -1.2216812, -6.9009404, 8.623804 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Towel Hanger",
+      "itemId": 8811,
+      "transform": {
+        "location": [ 11.297039, -4.0071254, 8.378197 ],
+        "rotation": [ 0, 0, 0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Troupe Stage",
+      "itemId": 16781,
+      "transform": {
+        "location": [ -7.599999, -3.9999998, 7 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Troupe Stage",
+      "itemId": 16781,
+      "transform": {
+        "location": [ -7.600001, 4.000001, 7 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Vanity Mirror",
+      "itemId": 28148,
+      "transform": {
+        "location": [ -0.41631338, -6.924488, 8.623804 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Verdant Partition",
+      "itemId": 23892,
+      "transform": {
+        "location": [ 9.400013, 1.6158819, 7.047643 ],
+        "rotation": [ 0, 0, -0.1305262, 0.9914449 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Verdant Partition",
+      "itemId": 23892,
+      "transform": {
+        "location": [ 5.599077, 1.5082572, 7.047643 ],
+        "rotation": [ 0, 0, 0.1305262, 0.9914449 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Verdant Partition",
+      "itemId": 23892,
+      "transform": {
+        "location": [ -0.47149834, -5.9999976, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Wall Chronometer",
+      "itemId": 6671,
+      "transform": {
+        "location": [ -4.135034, -2.782001, -4.069342 ],
+        "rotation": [ 0, 0, -0.70722884, 0.7069847 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Wooden Handrail",
+      "itemId": 27296,
+      "transform": {
+        "location": [ -4.362417, -1.7940819, 8.85 ],
+        "rotation": [ 0, 0, -0.70710635, 0.7071072 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Handrail",
+      "itemId": 27296,
+      "transform": {
+        "location": [ -4.3476596, 2.9849901, 8.85 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Handrail",
+      "itemId": 27296,
+      "transform": {
+        "location": [ -4.362528, 1.7875392, 8.85 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Handrail",
+      "itemId": 27296,
+      "transform": {
+        "location": [ -4.348906, -2.9684434, 8.85 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Handrail",
+      "itemId": 27296,
+      "transform": {
+        "location": [ -4.3636274, -0.01473105, 8.85 ],
+        "rotation": [ 0, 0, -0.70710635, 0.7071072 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Loft",
+      "itemId": 24511,
+      "transform": {
+        "location": [ -9.597881, -7.3123302, 8.217329 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Loft",
+      "itemId": 24511,
+      "transform": {
+        "location": [ -11.30865, 1.9905005, 8.596735 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Loft",
+      "itemId": 24511,
+      "transform": {
+        "location": [ -11.304851, 5.407115, 8.223361 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Loft",
+      "itemId": 24511,
+      "transform": {
+        "location": [ -11.307834, -2.0095875, 8.599109 ],
+        "rotation": [ 0, 0, -0.70698476, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Loft",
+      "itemId": 24511,
+      "transform": {
+        "location": [ -8.265395, -2, 8.6 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Loft",
+      "itemId": 24511,
+      "transform": {
+        "location": [ -8.253863, 2, 8.6 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Steps",
+      "itemId": 24512,
+      "transform": {
+        "location": [ -4.7353716, -7.312356, 7.572241 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Wooden Steps",
+      "itemId": 24512,
+      "transform": {
+        "location": [ -4.7417254, 5.1836395, 7.571855 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": []
+    }
+  ],
+  "exteriorScale": 1,
+  "exteriorFixture": [],
+  "exteriorFurniture": [],
+  "properties": {}
+}
