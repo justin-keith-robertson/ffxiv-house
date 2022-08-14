@@ -1,0 +1,118 @@
+{
+  "playerTransform": {
+    "location": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0, 1 ],
+    "scale": [ 1, 1, 1 ]
+  },
+  "houseSize": "Apartment",
+  "interiorScale": 1,
+  "interiorFixture": [
+    {
+      "level": "Ground Floor",
+      "type": "Wall",
+      "name": "Glade Interior Wall",
+      "itemId": 6456
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Floor",
+      "name": "Tribunal Flooring",
+      "itemId": 17035
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Light",
+      "name": "Riviera Pendant Lamp",
+      "itemId": 6461
+    },
+    {
+      "level": "",
+      "type": "District",
+      "name": "Mist",
+      "itemId": 0
+    }
+  ],
+  "interiorFurniture": [
+    {
+      "name": "Dishware",
+      "itemId": 28137,
+      "transform": {
+        "location": [ 4.734604, -2.9979026, 0 ],
+        "rotation": [ 0, 0, 0.4716274, 0.8817979 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Dragon Icon",
+      "itemId": 32222,
+      "transform": {
+        "location": [ 0.96404696, 1.5344168, 0 ],
+        "rotation": [ 0, 0, -0.32358617, 0.9461987 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Bachelor's Chest",
+      "itemId": 22553,
+      "transform": {
+        "location": [ 4.9010277, 1.1530628, 1.1746478 ],
+        "rotation": [ 0, 0, 0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "House Borel Tea Set",
+      "itemId": 21824,
+      "transform": {
+        "location": [ 4.508594, -0.49123162, 0.96216977 ],
+        "rotation": [ 0, 0, 0.031410635, 0.9995066 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Dressing Table",
+      "itemId": 28973,
+      "transform": {
+        "location": [ 4.7084484, -0.27413538, 0 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Mummer's Maquillage",
+      "itemId": 21847,
+      "transform": {
+        "location": [ 2.5922174, -5.3873734, 0.0027932408 ],
+        "rotation": [ 0, 0, 0.65262735, 0.75767905 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Necklace Display Stand",
+      "itemId": 28149,
+      "transform": {
+        "location": [ 4.4486666, 0.8850076, 1.0817797 ],
+        "rotation": [ 0, 0, 0.81694347, 0.5767178 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    }
+  ],
+  "exteriorScale": 1,
+  "exteriorFixture": [],
+  "exteriorFurniture": [],
+  "properties": {}
+}

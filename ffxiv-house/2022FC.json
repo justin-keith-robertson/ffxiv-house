@@ -1,0 +1,787 @@
+{
+  "playerTransform": {
+    "location": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0, 1 ],
+    "scale": [ 1, 1, 1 ]
+  },
+  "houseSize": "Apartment",
+  "interiorScale": 1,
+  "interiorFixture": [
+    {
+      "level": "Ground Floor",
+      "type": "Wall",
+      "name": "House Borel Interior Wall",
+      "itemId": 21867
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Floor",
+      "name": "White Marble Flooring",
+      "itemId": 21868
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Light",
+      "name": "Alpine Chandelier",
+      "itemId": 14068
+    },
+    {
+      "level": "",
+      "type": "District",
+      "name": "Lavender Beds",
+      "itemId": 0
+    }
+  ],
+  "interiorFurniture": [
+    {
+      "name": "Basket of Flowers",
+      "itemId": 28143,
+      "transform": {
+        "location": [ -2.9737542, -0.39045554, 0.7010642 ],
+        "rotation": [ 0, 0, -0.8145203, 0.5801351 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "781A1A00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Blank Glade Partition",
+      "itemId": 21107,
+      "transform": {
+        "location": [ -4, -1.2, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ -3.7333453, -0.64492255, 0.7010642 ],
+        "rotation": [ 0, 0, -0.22024913, 0.97544366 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 5.209611, 0.61805713, 1.2121942 ],
+        "rotation": [ 0, 0, -0.9561013, 0.2930363 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ -3.7303934, -0.64032894, 0.7010642 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Brass Pricket",
+      "itemId": 6635,
+      "transform": {
+        "location": [ 5.264555, 4.7464175, 0.9900001 ],
+        "rotation": [ 0, 0, -0.78045815, 0.625208 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Chirurgeon's Curtain",
+      "itemId": 15151,
+      "transform": {
+        "location": [ -2.1624205, -3.646581, 0 ],
+        "rotation": [ 0, 0, 0.7165531, 0.69753253 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "4F2D1F00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Coat Hanger",
+      "itemId": 21851,
+      "transform": {
+        "location": [ -5.359482, -3.816207, 0.050179858 ],
+        "rotation": [ 0, 0, -0.60876137, 0.7933534 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Cosmetics Box",
+      "itemId": 28965,
+      "transform": {
+        "location": [ -3.7393546, -7.3061943, 1.1999818 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Cracked Arch Window",
+      "itemId": 30397,
+      "transform": {
+        "location": [ 0.03583035, -7.053337, 1.5057353 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Deluxe Manor Fireplace",
+      "itemId": 6590,
+      "transform": {
+        "location": [ -5.2, 2, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "4F2D1F00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Display Stand",
+      "itemId": 12098,
+      "transform": {
+        "location": [ 5.2270813, 0.5980077, 0 ],
+        "rotation": [ 0, 0, 0.9697732, 0.24400823 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Easel",
+      "itemId": 17971,
+      "transform": {
+        "location": [ 4.6, -1.8, 0 ],
+        "rotation": [ 0, 0, 0.31627405, 0.9486679 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Elixir Bottle",
+      "itemId": 17972,
+      "transform": {
+        "location": [ -5.4906693, -6.077771, 0.05017965 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Empty Boxes",
+      "itemId": 28150,
+      "transform": {
+        "location": [ -5.3745403, -6.792838, 0.05017957 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Flame Desk",
+      "itemId": 6540,
+      "transform": {
+        "location": [ 2.8, 5.4, 0 ],
+        "rotation": [ 0, 0, -0.5, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Flame Storage Bench",
+      "itemId": 6527,
+      "transform": {
+        "location": [ -5.2, -5, 0 ],
+        "rotation": [ 0, 0, -0.7933533, 0.6087614 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Four Lords",
+      "itemId": 24510,
+      "transform": {
+        "location": [ -3.9182754, -0.9500086, 2.9717665 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Bachelor's Chest",
+      "itemId": 22553,
+      "transform": {
+        "location": [ 5.426821, 6.4016476, 0.9900001 ],
+        "rotation": [ 0, 0, 0.86602545, 0.49999997 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "4F2D1F00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Glade Cartonnier",
+      "itemId": 6622,
+      "transform": {
+        "location": [ -3.766994, -7.2539206, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Drawer Table",
+      "itemId": 6624,
+      "transform": {
+        "location": [ 5.4, 6.2, 0 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Drawer Table",
+      "itemId": 6624,
+      "transform": {
+        "location": [ 5.4, 5.2, 0 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Lantern",
+      "itemId": 6637,
+      "transform": {
+        "location": [ -3.8211355, -2.0284624, 1.7189662 ],
+        "rotation": [ 0, 0, 0.91608065, 0.40099403 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Partition",
+      "itemId": 6577,
+      "transform": {
+        "location": [ 0.01796338, -7.3033285, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Rug",
+      "itemId": 6676,
+      "transform": {
+        "location": [ 0, 5.4, 0 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glade Sideboard",
+      "itemId": 6623,
+      "transform": {
+        "location": [ -3.5186477, -0.48545915, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Glass Jars",
+      "itemId": 23888,
+      "transform": {
+        "location": [ 4.8, -1, 0 ],
+        "rotation": [ 0, 0, 0.9659259, 0.25881895 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Gridanian Bouquet",
+      "itemId": 23876,
+      "transform": {
+        "location": [ -4.21356, -2.1733108, 1.0741956 ],
+        "rotation": [ 0, 0, 0.50000006, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Gridanian Cityscape",
+      "itemId": 6660,
+      "transform": {
+        "location": [ 6, -0.9859352, 2.1999934 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "House Borel Tea Set",
+      "itemId": 21824,
+      "transform": {
+        "location": [ 2.6932905, 5.569618, 1.0055456 ],
+        "rotation": [ 0, 0, 0.9914035, 0.13084003 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Icebox",
+      "itemId": 33275,
+      "transform": {
+        "location": [ 5.2, -0.4, 0 ],
+        "rotation": [ 0, 0, 0.6087615, 0.79335326 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Iron Torch",
+      "itemId": 32219,
+      "transform": {
+        "location": [ 1.3999999, 8, 2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Iron Torch",
+      "itemId": 32219,
+      "transform": {
+        "location": [ -1.4, 8, 2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Laundry Basket",
+      "itemId": 22549,
+      "transform": {
+        "location": [ -2.798544, -2.9734445, 0.05018016 ],
+        "rotation": [ 0, 0, -0.47283018, 0.8811536 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Lominsan Cityscape",
+      "itemId": 6659,
+      "transform": {
+        "location": [ 3, 8, 1.8 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Longcase Chronometer",
+      "itemId": 9718,
+      "transform": {
+        "location": [ -1.6932712, -1.1726053, 0 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2F385100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 4.9864492, 7.2240944, 0 ],
+        "rotation": [ 0, 0, 0.25881904, 0.9659258 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Manor Candelabra",
+      "itemId": 6586,
+      "transform": {
+        "location": [ 4.9867563, 7.2194133, 0 ],
+        "rotation": [ 0, 0, -0.47599822, 0.8794462 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Mummer's Wardrobe",
+      "itemId": 21849,
+      "transform": {
+        "location": [ -4.4, -2, 0 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Necklace Display Stand",
+      "itemId": 28149,
+      "transform": {
+        "location": [ -4.622799, -2.159782, 1.0741956 ],
+        "rotation": [ 0, 0, -0.9999074, 0.01360823 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Oasis Flower Vase",
+      "itemId": 6641,
+      "transform": {
+        "location": [ 5.579723, 6.031661, 0.9900001 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Paint Can",
+      "itemId": 24489,
+      "transform": {
+        "location": [ 5.2, -2.2, 0 ],
+        "rotation": [ 0, 0, 0.5818461, 0.8132989 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "E4DFD000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Pixie Apple Basket",
+      "itemId": 33280,
+      "transform": {
+        "location": [ 5.528872, 5.318143, 0.99 ],
+        "rotation": [ 0, 0, 0.52438396, 0.8514819 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "E4DFD000"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Potted Orange Tree",
+      "itemId": 27283,
+      "transform": {
+        "location": [ 5.2407184, 3.4684377, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Potted Spider Plant",
+      "itemId": 6646,
+      "transform": {
+        "location": [ -4.792502, 4.208399, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Armchair",
+      "itemId": 6529,
+      "transform": {
+        "location": [ -2.5077116, 1.0833459, 0 ],
+        "rotation": [ 0, 0, 0.38268346, 0.9238795 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Armchair",
+      "itemId": 6529,
+      "transform": {
+        "location": [ -2.4240088, 2.6721718, 0 ],
+        "rotation": [ 0, 0, 0.86602545, 0.49999997 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Bookshelf",
+      "itemId": 6566,
+      "transform": {
+        "location": [ -3.8, 7.2, 0 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "4F2D1F00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Riviera Chair",
+      "itemId": 6513,
+      "transform": {
+        "location": [ 3.3999999, 4.4, 0 ],
+        "rotation": [ 0, 0, 0.25881904, 0.9659258 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Chair",
+      "itemId": 6513,
+      "transform": {
+        "location": [ 2.3999999, 6.6, 0 ],
+        "rotation": [ 0, 0, -0.9659258, 0.25881907 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Lantern",
+      "itemId": 6636,
+      "transform": {
+        "location": [ -2.5453837, -7.2955785, 1.070979 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Riviera Rug",
+      "itemId": 6673,
+      "transform": {
+        "location": [ -3.7999997, -4.6, 0 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Sealed Letter",
+      "itemId": 33270,
+      "transform": {
+        "location": [ 5.2130857, 6.2015953, 0.9900001 ],
+        "rotation": [ 0, 0, 0.6021001, 0.79842067 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Simple Curtain",
+      "itemId": 27274,
+      "transform": {
+        "location": [ 6, 3, 2 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2F385100"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Sultana and Flame General Portrait",
+      "itemId": 7096,
+      "transform": {
+        "location": [ 6, 5.8000007, 3.2 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Table Orchestrion",
+      "itemId": 17954,
+      "transform": {
+        "location": [ -4.128438, -0.39852363, 0.7010642 ],
+        "rotation": [ 0, 0, -0.45457515, 0.8907084 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "4F2D1F00"
+      },
+      "attachments": []
+    },
+    {
+      "name": "Terracotta Pot",
+      "itemId": 6594,
+      "transform": {
+        "location": [ -4.318501, 3.7866144, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Travel Paint Set",
+      "itemId": 24494,
+      "transform": {
+        "location": [ 5.3496447, -0.52196485, 1.0633773 ],
+        "rotation": [ 0, 0, 0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Trouser Hanger",
+      "itemId": 22560,
+      "transform": {
+        "location": [ -6, -3.0000002, 1.8000001 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Ul'dahn Cityscape",
+      "itemId": 6661,
+      "transform": {
+        "location": [ 4.4, 8, 2.2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Wall Lantern",
+      "itemId": 8805,
+      "transform": {
+        "location": [ -6, 4.8, 2.8 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Wall Lantern",
+      "itemId": 8805,
+      "transform": {
+        "location": [ -6, 6.8, 2.8 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "White Screen",
+      "itemId": 29682,
+      "transform": {
+        "location": [ 3.8086858, -5.010806, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Wine Barrel",
+      "itemId": 8797,
+      "transform": {
+        "location": [ -2.517684, -7.260305, 0 ],
+        "rotation": [ 0, 0, -0.14504614, 0.9894249 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Wine Glass",
+      "itemId": 22557,
+      "transform": {
+        "location": [ 2.7037113, 4.890937, 1.0055456 ],
+        "rotation": [ 0, 0, -0.9941878, 0.1076598 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    },
+    {
+      "name": "Yugiri and Gosetsu Sketch",
+      "itemId": 20306,
+      "transform": {
+        "location": [ 6, -2, 1.5999999 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": []
+    }
+  ],
+  "exteriorScale": 1,
+  "exteriorFixture": [],
+  "exteriorFurniture": [],
+  "properties": {}
+}

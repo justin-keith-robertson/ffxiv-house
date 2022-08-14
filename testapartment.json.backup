@@ -1,0 +1,158 @@
+{
+	"metaData":
+	{
+		"version": "78"
+	},
+	"startPosition":
+	{
+		"location": [ -251.64717102050781, -391.99639892578125, 82.275009155273438 ],
+		"rotation": [ 0, -0, 0.26630872488021851, 0.96388781070709229 ],
+		"scale": [ 1, 1, 1 ]
+	},
+	"houseSize": "Apartment",
+	"lightLevel": 1,
+	"interiorScale": 100,
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Mist",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Riviera Pendant Lamp",
+			"itemId": 6461,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Tribunal Flooring",
+			"itemId": 17035,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Chamber Door",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Glade Interior Wall",
+			"itemId": 6456,
+			"color": ""
+		}
+	],
+	"interiorFurniture": [
+		{
+			"attachments": [],
+			"name": "Necklace Display Stand",
+			"itemId": 28149,
+			"transform":
+			{
+				"location": [ 444.86666870117188, 88.500762939453125, 108.17797088623047 ],
+				"rotation": [ 0, 0, 0.8169434666633606, 0.5767177939414978 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Mummer's Maquillage",
+			"itemId": 21847,
+			"transform":
+			{
+				"location": [ 259.22174072265625, -538.73736572265625, 0.27932408452033997 ],
+				"rotation": [ 0, 0, 0.65262734889984131, 0.7576790452003479 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Manor Dressing Table",
+			"itemId": 28973,
+			"transform":
+			{
+				"location": [ 470.8448486328125, -27.413537979125977, 0 ],
+				"rotation": [ 0, 0, 0.70710670948028564, 0.7071068286895752 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "House Borel Tea Set",
+			"itemId": 21824,
+			"transform":
+			{
+				"location": [ 450.85940551757812, -49.123161315917969, 96.21697998046875 ],
+				"rotation": [ 0, 0, 0.031410634517669678, 0.99950659275054932 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Dishware",
+			"itemId": 28137,
+			"transform":
+			{
+				"location": [ 473.46038818359375, -299.79025268554688, 0 ],
+				"rotation": [ 0, 0, 0.47162741422653198, 0.8817979097366333 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Dragon Icon",
+			"itemId": 32222,
+			"transform":
+			{
+				"location": [ 96.404693603515625, 153.44168090820312, 0 ],
+				"rotation": [ 0, 0, -0.32358616590499878, 0.94619870185852051 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Bachelor's Chest",
+			"itemId": 22553,
+			"transform":
+			{
+				"location": [ 490.102783203125, 115.30628204345703, 117.46478271484375 ],
+				"rotation": [ 0, 0, 0.70710664987564087, 0.70710688829421997 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"exteriorScale": 1,
+	"exteriorFixture": [],
+	"exteriorFurniture": [],
+	"properties":
+	{
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"metaData":
+	{
+		"version": "78"
+	},
+	"startPosition":
+	{
+		"location": [ -192.64875793457031, 11.251774787902832, 254.11820983886719 ],
+		"rotation": [ 0, -0, 0.35997116565704346, 0.93296343088150024 ],
+		"scale": [ 1, 1, 1 ]
+	},
+	"houseSize": "Apartment",
+	"lightLevel": 1,
+	"interiorScale": 100,
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Mist",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Riviera Pendant Lamp",
+			"itemId": 6461,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Tribunal Flooring",
+			"itemId": 17035,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Chamber Door",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Glade Interior Wall",
+			"itemId": 6456,
+			"color": ""
+		}
+	],
+	"interiorFurniture": [],
+	"exteriorScale": 100,
+	"exteriorFixture": [],
+	"exteriorFurniture": [],
+	"properties":
+	{
+	}
+}

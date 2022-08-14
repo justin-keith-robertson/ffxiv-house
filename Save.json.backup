@@ -1,0 +1,1635 @@
+{
+	"metaData":
+	{
+		"version": "78"
+	},
+	"startPosition":
+	{
+		"location": [ -334.5096435546875, -21.269954681396484, -617.8499755859375 ],
+		"rotation": [ 0, -0, 0.63949793577194214, 0.76879280805587769 ],
+		"scale": [ 1, 1, 1 ]
+	},
+	"houseSize": "Small",
+	"lightLevel": 0.46279650926589966,
+	"interiorScale": 100,
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Empyreum",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Wall",
+			"name": "Amaurotine Interior Wall",
+			"itemId": 37408,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Highland Pendant Lamp",
+			"itemId": 36889,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Masonwork Flooring",
+			"itemId": 8832,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Alpine Inner Wall",
+			"itemId": 14070,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Light",
+			"name": "Oasis Chandelier",
+			"itemId": 6469,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Empty",
+			"itemId": 0,
+			"color": ""
+		}
+	],
+	"interiorFurniture": [
+		{
+			"attachments": [],
+			"name": "Ishgardian Stove",
+			"itemId": 32216,
+			"transform":
+			{
+				"location": [ 192.90478515625, 55.884387969970703, -5.6517290847324375e-14 ],
+				"rotation": [ 0, 0, -0.98579132556915283, 0.16797463595867157 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Manor Couch",
+			"itemId": 6535,
+			"transform":
+			{
+				"location": [ 416.76528930664062, 293.373046875, -0.002211857121437788 ],
+				"rotation": [ 0, 0, 0.38268345594406128, 0.92387950420379639 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Sideboard",
+			"itemId": 6623,
+			"transform":
+			{
+				"location": [ -2.6714741530042829e-16, -257.043701171875, -0.009705960750579834 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "585230FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Moogle Rug",
+			"itemId": 6684,
+			"transform":
+			{
+				"location": [ 28.988468170166016, 799.31195068359375, 0.0074501787312328815 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Scholasticate Bookshelf",
+			"itemId": 37379,
+			"transform":
+			{
+				"location": [ 0.0014550905907526612, -551.8087158203125, 7.673558235168457 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Brass Pricket",
+			"itemId": 6635,
+			"transform":
+			{
+				"location": [ -73.682319641113281, 151.88284301757812, 235.41204833984375 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wall Lantern",
+			"itemId": 8805,
+			"transform":
+			{
+				"location": [ -109.66645812988281, -599.82476806640625, 348.989013671875 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wall Lantern",
+			"itemId": 8805,
+			"transform":
+			{
+				"location": [ 109.65069580078125, -599.8570556640625, 348.99435424804688 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Potted Orange Tree",
+			"itemId": 27283,
+			"transform":
+			{
+				"location": [ 487.44827270507812, 534.741943359375, -0.0045762304216623306 ],
+				"rotation": [ 0, 0, -0.35698297619819641, 0.93411087989807129 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Art Showcase",
+			"itemId": 32236,
+			"transform":
+			{
+				"location": [ -535.34381103515625, 387.6317138671875, -0.99137014150619507 ],
+				"rotation": [ 0, 0, -0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ 566.90240478515625, 464.11346435546875, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ 566.90240478515625, 65.764068603515625, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Golden Ewer",
+			"itemId": 28136,
+			"transform":
+			{
+				"location": [ 0, 18.625547409057617, 207.70132446289062 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -69.952064514160156, 568.78692626953125, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Antique Vessels",
+			"itemId": 27293,
+			"transform":
+			{
+				"location": [ -51.873493194580078, 51.391471862792969, 208.24642944335938 ],
+				"rotation": [ 0, 0, 0.067320168018341064, 0.99773144721984863 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Cosmos Decoration",
+			"itemId": 28990,
+			"transform":
+			{
+				"location": [ 457.46359252929688, 132.96110534667969, 277.58236694335938 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Brass Pricket",
+			"itemId": 6635,
+			"transform":
+			{
+				"location": [ 73.695854187011719, 151.88284301757812, 235.41204833984375 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Model Star Globe",
+			"itemId": 7976,
+			"transform":
+			{
+				"location": [ 2.55351295663786e-15, -742.41455078125, 285.85012817382812 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Riviera Doormat",
+			"itemId": 7983,
+			"transform":
+			{
+				"location": [ 0, 484.51116943359375, 0.0096020055934786797 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ 330.1683349609375, 568.78692626953125, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Gemscope",
+			"itemId": 6651,
+			"transform":
+			{
+				"location": [ 64.302284240722656, -735.7484130859375, 285.193603515625 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Open Book",
+			"itemId": 28987,
+			"transform":
+			{
+				"location": [ -32.955734252929688, -250.64579772949219, 68.082229614257812 ],
+				"rotation": [ 0, 0, 0.88592290878295898, 0.46383249759674072 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Drawer Table",
+			"itemId": 6624,
+			"transform":
+			{
+				"location": [ 367.38973999023438, 59.701568603515625, 0.0041975872591137886 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "644216FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ 400.32809448242188, -569.76666259765625, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Antique Vessels",
+			"itemId": 27293,
+			"transform":
+			{
+				"location": [ 54.014667510986328, 53.896511077880859, 208.25508117675781 ],
+				"rotation": [ -0, 0, -0.94771230220794678, 0.31912606954574585 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Flower Vase",
+			"itemId": 6641,
+			"transform":
+			{
+				"location": [ 0, 18.880081176757812, 236.58551025390625 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Potted Spider Plant",
+			"itemId": 6646,
+			"transform":
+			{
+				"location": [ 512.7357177734375, -82.021530151367188, 0.0020832119043916464 ],
+				"rotation": [ 0, 0, -0.55193698406219482, 0.83388584852218628 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Simple Curtain",
+			"itemId": 27274,
+			"transform":
+			{
+				"location": [ -218.58578491210938, 129.47230529785156, 185.20111083984375 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Orchestrion Phonograph",
+			"itemId": 35555,
+			"transform":
+			{
+				"location": [ -530.227783203125, -87.4246826171875, 119.24073028564453 ],
+				"rotation": [ 0, 0, -0.57671988010406494, 0.81694197654724121 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Mounted Bookshelf",
+			"itemId": 15974,
+			"transform":
+			{
+				"location": [ -561.3616943359375, -322.98150634765625, 0.0094208680093288422 ],
+				"rotation": [ 0, 0, -0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Masonwork Stove",
+			"itemId": 8790,
+			"transform":
+			{
+				"location": [ 0.18568426370620728, 74.098785400390625, 0.0041354000568389893 ],
+				"rotation": [ -0, 0, -1, 2.0604101758081583e-10 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Knight Captain's Chair",
+			"itemId": 6521,
+			"transform":
+			{
+				"location": [ 138.2086181640625, -197.34738159179688, 1.1805286407470703 ],
+				"rotation": [ 0, 0, 0.39618659019470215, 0.91817003488540649 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Mounted Bookshelf",
+			"itemId": 15974,
+			"transform":
+			{
+				"location": [ -324.491943359375, -553.78118896484375, -0.0037654598709195852 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Knight Captain's Chair",
+			"itemId": 6521,
+			"transform":
+			{
+				"location": [ -138.227783203125, -197.34446716308594, 1.1649214029312134 ],
+				"rotation": [ 0, 0, -0.39618661999702454, 0.91817003488540649 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "92816CFF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Alpine Doormat",
+			"itemId": 37375,
+			"transform":
+			{
+				"location": [ -0.0040578357875347137, -86.952285766601562, -0.0046931575052440166 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Trick Bookshelf Partition",
+			"itemId": 37363,
+			"transform":
+			{
+				"location": [ 555.8544921875, -335.58200073242188, 0.0063537969253957272 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "622207FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Cosmos Decoration",
+			"itemId": 28990,
+			"transform":
+			{
+				"location": [ 252.64070129394531, 132.96110534667969, 277.58236694335938 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Admiral Portrait",
+			"itemId": 7095,
+			"transform":
+			{
+				"location": [ 266.64535522460938, 117.94892883300781, 303.2529296875 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Manor Table",
+			"itemId": 6615,
+			"transform":
+			{
+				"location": [ 7.1470607210244452e-16, 201.41677856445312, -0.0040015643462538719 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Imposing Dimension Castle Vase",
+			"itemId": 22563,
+			"transform":
+			{
+				"location": [ 512.738037109375, -81.007278442382812, 0.98064315319061279 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Sumptuous Dimension Castle Vase",
+			"itemId": 22562,
+			"transform":
+			{
+				"location": [ 70.773529052734375, 216.60995483398438, 85.642402648925781 ],
+				"rotation": [ 0, 0, -0.37679016590118408, 0.92629861831665039 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Onion Prince Flower Vase",
+			"itemId": 20759,
+			"transform":
+			{
+				"location": [ 70.773529052734375, 217.2928466796875, 81.522041320800781 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Sealed Letter",
+			"itemId": 33270,
+			"transform":
+			{
+				"location": [ -62.956733703613281, 221.83943176269531, 81.663009643554688 ],
+				"rotation": [ 0, 0, -0.34644412994384766, 0.93807059526443481 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Sealed Letter",
+			"itemId": 33270,
+			"transform":
+			{
+				"location": [ -60.53302001953125, 222.4989013671875, 81.23175048828125 ],
+				"rotation": [ 0, 0, -0.056866582483053207, 0.99838179349899292 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Swag Valance",
+			"itemId": 32224,
+			"transform":
+			{
+				"location": [ -6.0333309173583984, -603.1405029296875, 419.94003295898438 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Mounted Bookshelf",
+			"itemId": 15974,
+			"transform":
+			{
+				"location": [ 324.49606323242188, -568.43707275390625, 0.0087201343849301338 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ 396.35540771484375, 148.74754333496094, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Simple Curtain",
+			"itemId": 27274,
+			"transform":
+			{
+				"location": [ -496.160888671875, 129.47230529785156, 185.20111083984375 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Simple Curtain",
+			"itemId": 27274,
+			"transform":
+			{
+				"location": [ -496.16946411132812, 164.83436584472656, 185.19831848144531 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Planter Partition",
+			"itemId": 7979,
+			"transform":
+			{
+				"location": [ -545.37603759765625, 387.6300048828125, 285.86807250976562 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Manor Candelabra",
+			"itemId": 6586,
+			"transform":
+			{
+				"location": [ 203.60212707519531, 533.26165771484375, -0.0027108374051749706 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Simple Curtain",
+			"itemId": 27274,
+			"transform":
+			{
+				"location": [ -218.58580017089844, 164.8270263671875, 185.20111083984375 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "E4DFD0FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Potted Dragon Tree",
+			"itemId": 7975,
+			"transform":
+			{
+				"location": [ 515.141845703125, 208.1578369140625, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wall Chronometer",
+			"itemId": 6671,
+			"transform":
+			{
+				"location": [ 600.20587158203125, 399.8499755859375, 293.66506958007812 ],
+				"rotation": [ 0, -0, 0.70837008953094482, 0.70584118366241455 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -3.8697547912597656, 148.74754333496094, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -404.01959228515625, 148.74754333496094, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -469.61343383789062, 568.78692626953125, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Incensory",
+			"itemId": 8798,
+			"transform":
+			{
+				"location": [ -87.845901489257812, 203.95225524902344, 83.357444763183594 ],
+				"rotation": [ 0, 0, -0.26008263230323792, 0.96558636426925659 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Bluefeather Astrolabos",
+			"itemId": 37380,
+			"transform":
+			{
+				"location": [ 0, -538.9150390625, 286.77114868164062 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Longcase Chronometer",
+			"itemId": 9718,
+			"transform":
+			{
+				"location": [ 484.18777465820312, 9.8801050186157227, 0 ],
+				"rotation": [ 0, 0, 0.90542221069335938, 0.42451226711273193 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "644216FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Manor Candelabra",
+			"itemId": 6586,
+			"transform":
+			{
+				"location": [ -202.568359375, 531.09710693359375, 0.007738758809864521 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Apothecary's Workbench",
+			"itemId": 35565,
+			"transform":
+			{
+				"location": [ -437.93817138671875, 584.00518798828125, -700.0091552734375 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Message Book Stand",
+			"itemId": 6541,
+			"transform":
+			{
+				"location": [ 5.4938692484185481e-15, 220.69444274902344, 81.072982788085938 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "White Rectangular Partition",
+			"itemId": 24514,
+			"transform":
+			{
+				"location": [ 91.795448303222656, 123.39909362792969, 209.73725891113281 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F5766FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Brass Pricket",
+			"itemId": 6635,
+			"transform":
+			{
+				"location": [ 408.23391723632812, 84.4896240234375, 99.101463317871094 ],
+				"rotation": [ 0, 0, 0.33955758810043335, 0.94058525562286377 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "White Rectangular Partition",
+			"itemId": 24514,
+			"transform":
+			{
+				"location": [ 413.1339111328125, 123.39909362792969, 209.73725891113281 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F5766FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "White Rectangular Partition",
+			"itemId": 24514,
+			"transform":
+			{
+				"location": [ 413.13641357421875, 123.39909362792969, -90.263839721679688 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F5766FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "White Rectangular Partition",
+			"itemId": 24514,
+			"transform":
+			{
+				"location": [ 91.795448303222656, 123.39909362792969, -90.263839721679688 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F5766FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Pixie Apple Basket",
+			"itemId": 33280,
+			"transform":
+			{
+				"location": [ 341.464111328125, 69.147262573242188, 98.649322509765625 ],
+				"rotation": [ 0, 0, -0.19286461174488068, 0.98122537136077881 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Display Stand",
+			"itemId": 12098,
+			"transform":
+			{
+				"location": [ -530.2109375, -87.409698486328125, 0 ],
+				"rotation": [ 0, 0, -0.40825113654136658, 0.91286969184875488 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Brass Pricket",
+			"itemId": 6635,
+			"transform":
+			{
+				"location": [ 55.159664154052734, -276.26614379882812, 68.023239135742188 ],
+				"rotation": [ 0, 0, 0.17674145102500916, 0.98425734043121338 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wine Glass",
+			"itemId": 22557,
+			"transform":
+			{
+				"location": [ 379.15396118164062, 44.863571166992188, 99.318153381347656 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Brass Pricket",
+			"itemId": 6635,
+			"transform":
+			{
+				"location": [ 408.20703125, 84.491065979003906, 99.096755981445312 ],
+				"rotation": [ 0, 0, -0.42499074339866638, 0.90519767999649048 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wine Glass",
+			"itemId": 22557,
+			"transform":
+			{
+				"location": [ 392.582763671875, 44.861076354980469, 99.318153381347656 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wine Glass",
+			"itemId": 22557,
+			"transform":
+			{
+				"location": [ 379.15396118164062, 59.122703552246094, 99.318153381347656 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wine Glass",
+			"itemId": 22557,
+			"transform":
+			{
+				"location": [ 392.582763671875, 59.122703552246094, 99.318153381347656 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Wine Rack",
+			"itemId": 28967,
+			"transform":
+			{
+				"location": [ 365.86349487304688, 47.734725952148438, 6.7289923633140347e-15 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "644216FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Astrologicum Star Map",
+			"itemId": 37372,
+			"transform":
+			{
+				"location": [ -22.377206802368164, -257.39251708984375, 68.626335144042969 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Icebox",
+			"itemId": 33275,
+			"transform":
+			{
+				"location": [ 265.71978759765625, 77.804054260253906, -0.42373207211494446 ],
+				"rotation": [ 0, 0, 1, 6.1232342629258393e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "4F2D1FFF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -565.1405029296875, 331.71701049804688, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -565.1405029296875, -69.697647094726562, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -565.1405029296875, -470.105224609375, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ -399.20578002929688, -569.76666259765625, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Oasis Half Partition",
+			"itemId": 12096,
+			"transform":
+			{
+				"location": [ 8.6105093942023814e-05, -569.76666259765625, 496.71316528320312 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "The Five Ages",
+			"itemId": 7964,
+			"transform":
+			{
+				"location": [ -461.19525146484375, 834.8123779296875, -700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Double Feather Bed",
+			"itemId": 7984,
+			"transform":
+			{
+				"location": [ -425.57760620117188, 1085.047607421875, -699.9901123046875 ],
+				"rotation": [ 0, 0, -0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Partition",
+			"itemId": 27281,
+			"transform":
+			{
+				"location": [ -341.64944458007812, -573.09356689453125, -699.991943359375 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Arch Partition",
+			"itemId": 27273,
+			"transform":
+			{
+				"location": [ -395.72564697265625, -173.00999450683594, -700.00115966796875 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Bathroom Floor Tiles",
+			"itemId": 23893,
+			"transform":
+			{
+				"location": [ -329.70223999023438, -342.82687377929688, -699.99822998046875 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Shower Stand",
+			"itemId": 8783,
+			"transform":
+			{
+				"location": [ -127.72037506103516, -538.99090576171875, -700 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Bathroom Floor Tiles",
+			"itemId": 23893,
+			"transform":
+			{
+				"location": [ 69.026298522949219, -342.83267211914062, -700 ],
+				"rotation": [ 0, 0, 1.1102230246251565e-16, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Partition",
+			"itemId": 27281,
+			"transform":
+			{
+				"location": [ -561.638427734375, -348.417724609375, -699.99267578125 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Partition",
+			"itemId": 27281,
+			"transform":
+			{
+				"location": [ 403.2877197265625, -173.00999450683594, -699.994140625 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Partition Door",
+			"itemId": 22555,
+			"transform":
+			{
+				"location": [ 410.98593139648438, 417.97882080078125, -699.99664306640625 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Partition",
+			"itemId": 6577,
+			"transform":
+			{
+				"location": [ 180.51338195800781, 396.4093017578125, -700 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Partition",
+			"itemId": 6577,
+			"transform":
+			{
+				"location": [ 180.51338195800781, 778.8721923828125, -699.92437744140625 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Partition",
+			"itemId": 6577,
+			"transform":
+			{
+				"location": [ -40.872753143310547, 180.13999938964844, -700.00146484375 ],
+				"rotation": [ 0, 0, 1.1102230246251565e-16, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Partition Door",
+			"itemId": 22555,
+			"transform":
+			{
+				"location": [ 190.48316955566406, 1175.9351806640625, -699.9964599609375 ],
+				"rotation": [ 0, 0, -0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Partition Door",
+			"itemId": 22555,
+			"transform":
+			{
+				"location": [ -422.85052490234375, 180.14720153808594, -699.99664306640625 ],
+				"rotation": [ -0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Partition",
+			"itemId": 27281,
+			"transform":
+			{
+				"location": [ 454.1578369140625, -573.09356689453125, -699.99456787109375 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Ivy Pillar",
+			"itemId": 17025,
+			"transform":
+			{
+				"location": [ 170.50369262695312, 188.23809814453125, -700 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Bathtub",
+			"itemId": 6592,
+			"transform":
+			{
+				"location": [ 425.05072021484375, -373.98251342773438, -700 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Ahriman Vase",
+			"itemId": 7086,
+			"transform":
+			{
+				"location": [ 544.60107421875, -281.87539672851562, -413.97036743164062 ],
+				"rotation": [ 0, 0, -0.4211941659450531, 0.90697050094604492 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Partition",
+			"itemId": 27281,
+			"transform":
+			{
+				"location": [ 53.862003326416016, -573.09356689453125, -699.9957275390625 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Marble Partition",
+			"itemId": 27281,
+			"transform":
+			{
+				"location": [ 3.49839186668396, -173.00999450683594, -700.0089111328125 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Square Niche Partition",
+			"itemId": 35576,
+			"transform":
+			{
+				"location": [ 575.71636962890625, -361.01028442382812, -700 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Elixir Bottle",
+			"itemId": 17972,
+			"transform":
+			{
+				"location": [ 556.3619384765625, -280.59231567382812, -584.7718505859375 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Imitation Long Window",
+			"itemId": 28139,
+			"transform":
+			{
+				"location": [ 494.98001098632812, -371.33834838867188, -205.24903869628906 ],
+				"rotation": [ 0, 0, 0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"exteriorScale": 100,
+	"exteriorFixture": [
+		{
+			"level": "",
+			"type": "Window",
+			"name": "Highland Oblong Window",
+			"itemId": 36883,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "Door",
+			"name": "Riviera Ornate Door",
+			"itemId": 0,
+			"color": ""
+		}
+	],
+	"exteriorFurniture": [],
+	"properties":
+	{
+	}
+}

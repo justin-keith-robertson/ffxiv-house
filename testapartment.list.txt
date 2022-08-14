@@ -1,0 +1,22 @@
+     Furniture     
+=====================
+Necklace Display Stand: 1
+Mummer's Maquillage: 1
+Manor Dressing Table: 1
+House Borel Tea Set: 1
+Glade Bachelor's Chest: 1
+Dragon Icon: 1
+Dishware: 1
+
+        Dyes        
+=====================
+
+Furniture (With Dye)
+=====================
+Dishware: 1
+Dragon Icon: 1
+Glade Bachelor's Chest: 1
+House Borel Tea Set: 1
+Manor Dressing Table: 1
+Mummer's Maquillage: 1
+Necklace Display Stand: 1

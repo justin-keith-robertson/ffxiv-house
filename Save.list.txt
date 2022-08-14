@@ -1,0 +1,129 @@
+     Furniture     
+=====================
+Ishgardian Stove: 1
+Manor Couch: 1
+Glade Sideboard: 1
+Moogle Rug: 1
+Scholasticate Bookshelf: 1
+Brass Pricket: 5
+Wall Lantern: 2
+Potted Orange Tree: 1
+Art Showcase: 1
+Oasis Half Partition: 14
+Golden Ewer: 1
+Antique Vessels: 2
+Cosmos Decoration: 2
+Model Star Globe: 1
+Riviera Doormat: 1
+Gemscope: 1
+Open Book: 1
+Glade Drawer Table: 1
+Oasis Flower Vase: 1
+Potted Spider Plant: 1
+Simple Curtain: 4
+Orchestrion Phonograph: 1
+Mounted Bookshelf: 3
+Masonwork Stove: 1
+Knight Captain's Chair: 2
+Alpine Doormat: 1
+Trick Bookshelf Partition: 1
+Admiral Portrait: 1
+Manor Table: 1
+Imposing Dimension Castle Vase: 1
+Sumptuous Dimension Castle Vase: 1
+Onion Prince Flower Vase: 1
+Sealed Letter: 2
+Swag Valance: 1
+Planter Partition: 1
+Manor Candelabra: 2
+Potted Dragon Tree: 1
+Wall Chronometer: 1
+Incensory: 1
+Bluefeather Astrolabos: 1
+Longcase Chronometer: 1
+Apothecary's Workbench: 1
+Message Book Stand: 1
+White Rectangular Partition: 4
+Pixie Apple Basket: 1
+Display Stand: 1
+Wine Glass: 4
+Wine Rack: 1
+Astrologicum Star Map: 1
+Icebox: 1
+The Five Ages: 1
+Double Feather Bed: 1
+Blue Moon Phasmascape: 1
+Indoor Pond: 1
+Luminous Wooden Loft: 2
+Troupe Stage: 1
+
+        Dyes        
+=====================
+Ceruleum Blue: 4
+Mud Green: 1
+Orchard Brown: 3
+Pure White: 1
+Russet Brown: 1
+Rust Red: 1
+Shale Brown: 1
+Snow White: 4
+
+Furniture (With Dye)
+=====================
+Admiral Portrait: 1
+Alpine Doormat: 1
+Antique Vessels: 2
+Apothecary's Workbench: 1
+Art Showcase: 1
+Astrologicum Star Map: 1
+Blue Moon Phasmascape: 1
+Bluefeather Astrolabos: 1
+Brass Pricket: 5
+Cosmos Decoration: 2
+Display Stand: 1
+Double Feather Bed: 1
+Gemscope: 1
+Glade Drawer Table (Orchard Brown): 1
+Glade Sideboard (Mud Green): 1
+Golden Ewer: 1
+Icebox (Russet Brown): 1
+Imposing Dimension Castle Vase: 1
+Incensory (Pure White): 1
+Indoor Pond: 1
+Ishgardian Stove: 1
+Knight Captain's Chair: 1
+Knight Captain's Chair (Shale Brown): 1
+Longcase Chronometer (Orchard Brown): 1
+Luminous Wooden Loft: 2
+Manor Candelabra: 2
+Manor Couch: 1
+Manor Table: 1
+Masonwork Stove: 1
+Message Book Stand: 1
+Model Star Globe: 1
+Moogle Rug: 1
+Mounted Bookshelf: 3
+Oasis Flower Vase: 1
+Oasis Half Partition: 14
+Onion Prince Flower Vase: 1
+Open Book: 1
+Orchestrion Phonograph: 1
+Pixie Apple Basket: 1
+Planter Partition: 1
+Potted Dragon Tree: 1
+Potted Orange Tree: 1
+Potted Spider Plant: 1
+Riviera Doormat: 1
+Scholasticate Bookshelf: 1
+Sealed Letter: 2
+Simple Curtain (Snow White): 4
+Sumptuous Dimension Castle Vase: 1
+Swag Valance: 1
+The Five Ages: 1
+Trick Bookshelf Partition (Rust Red): 1
+Troupe Stage: 1
+Wall Chronometer: 1
+Wall Lantern: 2
+White Rectangular Partition (Ceruleum Blue): 4
+Wine Glass: 4
+Wine Rack (Orchard Brown): 1

@@ -1,0 +1,102 @@
+{
+	"metaData":
+	{
+		"version": "78"
+	},
+	"startPosition":
+	{
+		"location": [ -144.64788818359375, -129.48297119140625, 82.275009155273438 ],
+		"rotation": [ -0, 0, -0.69135218858718872, 0.72251790761947632 ],
+		"scale": [ 1, 1, 1 ]
+	},
+	"houseSize": "Apartment",
+	"lightLevel": 1,
+	"interiorScale": 100,
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Mist",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Riviera Pendant Lamp",
+			"itemId": 6461,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Tribunal Flooring",
+			"itemId": 17035,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Chamber Door",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Glade Interior Wall",
+			"itemId": 6456,
+			"color": ""
+		}
+	],
+	"interiorFurniture": [
+		{
+			"attachments": [],
+			"name": "Dishware",
+			"itemId": 28137,
+			"transform":
+			{
+				"location": [ -405.50115966796875, 291.60665893554688, 179.51727294921875 ],
+				"rotation": [ 0, 0, -0.87275201082229614, 0.48816388845443726 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Glade Bachelor's Chest",
+			"itemId": 22553,
+			"transform":
+			{
+				"location": [ 144.6363525390625, 524.11846923828125, 155.26603698730469 ],
+				"rotation": [ 0, 0, -0.94333863258361816, 0.33183157444000244 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"attachments": [],
+			"name": "Yugiri and Gosetsu Sketch",
+			"itemId": 20306,
+			"transform":
+			{
+				"location": [ -600.11865234375, 181.98385620117188, 221.34794616699219 ],
+				"rotation": [ 0, 0, -0.70710676908493042, 0.70710676908493042 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"exteriorScale": 1,
+	"exteriorFixture": [],
+	"exteriorFurniture": [],
+	"properties":
+	{
+	}
+}
