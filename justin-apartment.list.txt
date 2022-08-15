@@ -1,0 +1,126 @@
+     Furniture     
+=====================
+Antique Wall Shelf: 2
+Blue Moon Phasmascape: 2
+Cardpaper Box: 2
+Combed Wool Rug: 3
+Double Feather Bed: 1
+Four Lords: 1
+Futon Mattress: 1
+Glade Chair: 1
+Glade Lantern: 3
+Glass Jars: 1
+Heavenly Ornamental Array: 1
+Hingan Bookshelf: 4
+Hingan Cupboard: 2
+Laundry Basket: 1
+Leather Sofa: 3
+Low Bookshelf: 1
+Mahogany Aqueduct: 1
+Manor Fireplace: 2
+Marble Partition: 13
+Matching Cushions: 2
+Message Book Stand: 1
+Orchestrion: 1
+Potted Dragon Tree: 1
+Queen's Rest: 1 MISSING
+Riviera Table Chronometer: 2
+Showcase: 9
+Stage Panel: 16
+Stuffed Rabbit: 1
+Table Mat: 1
+Towels: 1
+Troupe Stage: 5
+White Rectangular Partition: 6
+Wood Slat Partition: 3
+Wooden Blinds: 1
+Wooden Staircase Bookshelf: 4
+Il Mheg Garden Fountain: 2
+Eastern Wisteria: 2
+Miniature Aetheryte: 1
+Wooden Deck: 1
+Brick Paving: 6
+Shroud Broadleaf: 1
+Regal Letter Box: 1
+Lattice Planter: 1
+Garden Gravel: 1
+Expansion of Duties Permit: 1
+Eastern Teahouse Bench: 1
+Large Planter Box: 2
+
+        Dyes        
+=====================
+Ash Grey: 20
+Bark Brown: 2
+Ceruleum Blue: 3
+Charcoal Grey: 11
+Chocolate Brown: 2
+Goobbue Grey: 5
+Kobold Brown: 1
+Loam Brown: 1
+Midnight Blue: 1
+Mole Brown: 4
+Slate Grey: 18
+Snow White: 9
+Soot Black: 8
+
+Furniture (With Dye)
+=====================
+Antique Wall Shelf: 2
+Blue Moon Phasmascape: 2
+Brick Paving (Snow White): 6
+Cardpaper Box (Soot Black): 2
+Combed Wool Rug (Ash Grey): 2
+Combed Wool Rug (Slate Grey): 1
+Double Feather Bed: 1
+Eastern Teahouse Bench (Snow White): 1
+Eastern Wisteria: 2
+Expansion of Duties Permit: 1
+Four Lords: 1
+Futon Mattress (Ash Grey): 1
+Garden Gravel (Snow White): 1
+Glade Chair: 1
+Glade Lantern: 3
+Glass Jars (Goobbue Grey): 1
+Heavenly Ornamental Array: 1
+Hingan Bookshelf (Charcoal Grey): 3
+Hingan Bookshelf (Loam Brown): 1
+Hingan Cupboard (Soot Black): 2
+Il Mheg Garden Fountain: 2
+Large Planter Box: 2
+Lattice Planter (Snow White): 1
+Laundry Basket: 1
+Leather Sofa (Goobbue Grey): 3
+Low Bookshelf (Charcoal Grey): 1
+Mahogany Aqueduct (Soot Black): 1
+Manor Fireplace (Soot Black): 2
+Marble Partition: 1
+Marble Partition (Ash Grey): 2
+Marble Partition (Chocolate Brown): 2
+Marble Partition (Slate Grey): 8
+Matching Cushions (Ceruleum Blue): 2
+Message Book Stand: 1
+Miniature Aetheryte: 1
+Orchestrion: 1
+Potted Dragon Tree: 1
+Queen's Rest: 1
+Regal Letter Box: 1
+Riviera Table Chronometer: 2
+Showcase: 1
+Showcase (Bark Brown): 2
+Showcase (Mole Brown): 3
+Showcase (Slate Grey): 3
+Shroud Broadleaf: 1
+Stage Panel: 4
+Stage Panel (Ash Grey): 10
+Stage Panel (Goobbue Grey): 1
+Stage Panel (Midnight Blue): 1
+Stuffed Rabbit: 1
+Table Mat (Soot Black): 1
+Towels (Ceruleum Blue): 1
+Troupe Stage (Ash Grey): 5
+White Rectangular Partition (Slate Grey): 6
+Wood Slat Partition (Charcoal Grey): 3
+Wooden Blinds (Mole Brown): 1
+Wooden Deck (Kobold Brown): 1
+Wooden Staircase Bookshelf (Charcoal Grey): 4
